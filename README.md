@@ -31,3 +31,10 @@ I wrote [an article that summarizes all the lessons learned during writing of th
  - [acts_as_list 0.3.0](https://github.com/swanandp/acts_as_list)
  - [Rspec 2.14](http://rspec.info/)
  - [factory_girl 4.2.0](https://github.com/thoughtbot/factory_girl)
+
+## Usage
+```
+$ bundle install --path=.bundle
+$ rake db:migrate
+$ rails server
+```
